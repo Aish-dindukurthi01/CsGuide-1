@@ -1,24 +1,24 @@
-.language #work-id{
+.languager1 #work-id{
     text-align: center;
     font-size: 3rem;
     color:black;
     margin: 39px 0px 27px 0px;
 }
 
-.language #third-col--flex img{
+.languager1 #third-col--flex img{
     width: 250px;
     height: auto;
     align-content: center;
     border-radius: 8px;    
 }
 
-.language #third-col--flex{
+.languager1 #third-col--flex{
     display: flex;
     justify-content: center;
     gap: 3.5em;
 }
 
-.language #third-col--flex div{
+.languager1 #third-col--flex div{
     width: 250px;
     height: 380px;
     background-color: #ffffff;
@@ -28,11 +28,11 @@
     border-radius: 10px;
 }
 
-.language #third-col--flex div a{
+.languager1 #third-col--flex div a{
     text-decoration: none;
 }
 
-.language #third-col--flex div:hover{
+.languager1 #third-col--flex div:hover{
     cursor: pointer;
     scale: 1.1;
     transition: 0.8s;
@@ -40,13 +40,13 @@
 }
 
 
-.language #third-col--flex span{
+.languager1 #third-col--flex span{
     color: black;
     font-weight: bold;
     font-size: 1.2rem;
 }
 
-.language #third-col--flex p{
+.languager1 #third-col--flex p{
     font-size: 1rem;
     color: black;
     margin-top: 1.7em;
@@ -54,27 +54,27 @@
 }
 
 /* --------------------------------------------------------------------------------- */
-.dsa #work-id{
+.languager2 #work-id{
     text-align: center;
     font-size: 3rem;
     color:black;
     margin: 39px 0px 27px 0px;
 }
 
-.dsa #third-col--flex img{
+.languager2 #third-col--flex img{
     width: 250px;
     height: auto;
     align-content: center;
     border-radius: 8px;    
 }
 
-.dsa #third-col--flex{
+.languager2 #third-col--flex{
     display: flex;
     justify-content: center;
     gap: 3.5em;
 }
 
-.dsa #third-col--flex div{
+.languager2 #third-col--flex div{
     width: 250px;
     height: 380px;
     background-color: #ffffff;
@@ -84,11 +84,11 @@
     border-radius: 10px;
 }
 
-.dsa #third-col--flex div a{
+.languager2 #third-col--flex div a{
     text-decoration: none;
 }
 
-.dsa #third-col--flex div:hover{
+.languager2 #third-col--flex div:hover{
     cursor: pointer;
     scale: 1.1;
     transition: 0.8s;
@@ -96,13 +96,13 @@
 }
 
 
-.dsa #third-col--flex span{
+.languager2 #third-col--flex span{
     color: black;
     font-weight: bold;
     font-size: 1.2rem;
 }
 
-.dsa #third-col--flex p{
+.languager2 #third-col--flex p{
     font-size: 1rem;
     color: black;
     margin-top: 1.7em;
