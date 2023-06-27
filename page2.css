@@ -1,24 +1,24 @@
-.languager1 #work-id{
+.language #work-id{
     text-align: center;
     font-size: 3rem;
     color:black;
     margin: 39px 0px 27px 0px;
 }
 
-.languager1 #third-col--flex img{
+.language #third-col--flex img{
     width: 250px;
     height: auto;
     align-content: center;
     border-radius: 8px;    
 }
 
-.languager1 #third-col--flex{
+.language #third-col--flex{
     display: flex;
     justify-content: center;
-    gap: 3.5em;
+    gap: 2.3em;
 }
 
-.languager1 #third-col--flex div{
+.language #third-col--flex div{
     width: 250px;
     height: 380px;
     background-color: #ffffff;
@@ -28,11 +28,11 @@
     border-radius: 10px;
 }
 
-.languager1 #third-col--flex div a{
+.language #third-col--flex div a{
     text-decoration: none;
 }
 
-.languager1 #third-col--flex div:hover{
+.language #third-col--flex div:hover{
     cursor: pointer;
     scale: 1.1;
     transition: 0.8s;
@@ -40,63 +40,141 @@
 }
 
 
-.languager1 #third-col--flex span{
+.language #third-col--flex span{
     color: black;
     font-weight: bold;
     font-size: 1.2rem;
 }
 
-.languager1 #third-col--flex p{
+.language #third-col--flex p{
     font-size: 1rem;
     color: black;
     margin-top: 1.7em;
     line-height: 24px;
 }
 
-/* --------------------------------------------------------------------------------- */
+/* ---------------------------------------------dsa--------------------------------------------- */
 
-.languager2 #third-col--flex img{
+
+.courses{
+    margin: 30px 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.courses p{
+    font-size: 19px;
+    text-align: justify;
+}
+.courses img{
+
+    width: 340px;
+    float: left;
+    border-radius: 15px; 
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    padding-top: 7px;
+}
+
+.courses link{
+    text-decoration: none;
+}
+/* ------------------------------------------------------------------------------------------ */
+.language{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+/* --------------------------------------------------------------------------------------------- */
+.dsa img{
+    width: 700px;
+    /* float: left; */
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+.web-dev
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.webDev1{
+    padding-top: 20px;
+}
+
+.web-dev img{
+    width: 340px;
+    height: auto;
+    border-radius: 15px; 
+}
+
+/* --------------------------------------------------------------------------------- */
+.dsa #work-id{
+    text-align: center;
+    font-size: 3rem;
+    color:black;
+    margin: 39px 0px 27px 0px;
+}
+
+.dsa #third-col--flex img{
     width: 250px;
     height: auto;
-    align-content: center;
-    border-radius: 8px;    
+    padding: 10%;
+    padding-top: 18px;
+    align-items: center;
+    /* margin-left: 10%; */
 }
 
-.languager2 #third-col--flex{
+.dsa #third-col--flex{
     display: flex;
-    justify-content: center;
-    gap: 3.5em;
+    justify-content: space-around;
+    padding: 40px 80px 20px 80px;
+    margin-top: 3em;
+    height:fit-content;
+    background-color: #083434;
+    gap: 3em;
 }
 
-.languager2 #third-col--flex div{
+.dsa #third-col--flex div{
     width: 250px;
     height: 380px;
     background-color: #ffffff;
     border:1px solid #dadada;
     margin-top: 1.8em;
     padding: 10px;
-    border-radius: 10px;
+    color:white;
 }
 
-.languager2 #third-col--flex div a{
+footer div h4, div:last-child h2{
+    color: white;
+    padding: 5px;
+}
+
+footer div:last-child ul li{
+    list-style-type: none;
+    color: white;
+    padding: 5px;
+}
+
+.dsa #third-col--flex div a{
     text-decoration: none;
+    color: whitesmoke;
+    padding-right: 15px;
 }
 
-.languager2 #third-col--flex div:hover{
+.dsa #third-col--flex div:hover{
     cursor: pointer;
     scale: 1.1;
     transition: 0.8s;
-    background-color: #dadada;
 }
 
 
-.languager2 #third-col--flex span{
+.dsa #third-col--flex span{
     color: black;
     font-weight: bold;
     font-size: 1.2rem;
 }
 
-.languager2 #third-col--flex p{
+.dsa #third-col--flex p{
     font-size: 1rem;
     color: black;
     margin-top: 1.7em;
